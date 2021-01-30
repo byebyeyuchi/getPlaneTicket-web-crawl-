@@ -1,0 +1,13 @@
+setup.py
+plane_ticket/__init__.py
+plane_ticket/items.py
+plane_ticket/middlewares.py
+plane_ticket/pipelines.py
+plane_ticket/settings.py
+plane_ticket/spiders/__init__.py
+plane_ticket/spiders/ticket_spider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
